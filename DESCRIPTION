@@ -1,0 +1,14 @@
+Package: rtemplate
+Title: An R markdown template for data journalism projects
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kevin",
+           family = "Schaul",
+           role = c("aut", "cre"),
+           email = "kevin.schaul@gmail.com")
+Description: An R markdown template for data journalism projects
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
