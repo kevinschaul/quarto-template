@@ -4,5 +4,4 @@ proj_setup <- function(path, ...) {
   
   dir.create(paste0(path, '/data/'), recursive = TRUE, showWarnings = FALSE)
   dir.create(paste0(path, '/scripts/'), recursive = TRUE, showWarnings = FALSE)
-  dir.create(paste0(path, '/findings/'), recursive = TRUE, showWarnings = FALSE)
 }

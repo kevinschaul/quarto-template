@@ -1,5 +1,5 @@
 ---
-title: "Slug"
+title: "SLUG"
 author: "Kevin Schaul"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
